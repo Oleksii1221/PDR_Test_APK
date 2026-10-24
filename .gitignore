@@ -1,0 +1,4 @@
+# Downloaded official source documents and generated data remain local.
+/sources/
+/build/
+/.gradle/
